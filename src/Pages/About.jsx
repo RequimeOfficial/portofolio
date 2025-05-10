@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Ahmad Mofidur Roobiyal Aqla
+                Ahmad Mofidur Robbiyal Aqla
               </span>
             </h2>
             
